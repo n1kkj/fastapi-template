@@ -1,6 +1,6 @@
 ### **Basic fastapi + alembic (async postgres) template**
 
-V 1.0
+__V 1.0__
 
 ----
 
@@ -19,7 +19,11 @@ And to stop containers:
 docker compose down
 ```
 
-Contact me in telegram if you have any suggestions or questions. 
+Contact me in telegram @n1kkj if you have any suggestions or questions
+
+**Or**
+
+Comment on [discussion page](https://github.com/n1kkj/fastapi-template/discussions/1)
 
 ----
 
