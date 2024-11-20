@@ -19,6 +19,13 @@ And to stop containers:
 docker compose down
 ```
 
+To generate and perform alembic migrations:
+
+```
+alembic revision --autogenerate -m "init"
+alembic upgrade head
+```
+
 Contact me in telegram @n1kkj if you have any suggestions or questions
 
 **Or**
